@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+groq
+pydantic
+pandas
+numpy
+python-multipart
+httpx
+requests
+python-dotenv
+scikit-learn
+sentence-transformers
+transformers
+torch
+huggingface-hub
